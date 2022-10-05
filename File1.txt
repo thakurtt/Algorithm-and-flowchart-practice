@@ -1,0 +1,2 @@
+Algorithm is basically a set of instructions to perform a task.
+Flowchart is graphical representation of performing a task.
